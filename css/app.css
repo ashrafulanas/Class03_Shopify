@@ -37,7 +37,7 @@
   font-weight: 600;
   color: #22262A;
   text-transform: uppercase;
-  float: right;
+  justify-content: flex-end;
 }
 .nav ul li{
   list-style: none;
